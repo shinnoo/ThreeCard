@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ptit.trandung"
+    },
+    "jhipsterVersion": "6.10.3",
+    "applicationType": "monolith",
+    "baseName": "ThreeCard",
+    "packageName": "com.ptit.trandung",
+    "packageFolder": "com/ptit/trandung",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWYzZTU3MGExMDc2ZjIxNzM2NDFmNmYxZGZiNjZhYjY0ZGY1Y2E4ZTMzZDJkZjUzMzllNmM4YzU0NWM3M2MxOWUzOGQ1YzU1MjUyNDRjNDA3YWQyNzRlN2RjZmYzMTk3YmE5MWU2NDMzN2MxMzBlMjU2ZjliMWY3ZDEzNWZiMDM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1604503302973,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
